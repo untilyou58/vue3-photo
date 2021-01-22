@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "scripthost",
+        "stylelint",
+        "tailwindcss",
+        "typecheck"
+    ],
+    "css.validate": false, // Disable css built-in lint
+    "stylelint.enable": true, // Enable stylelint
+}
