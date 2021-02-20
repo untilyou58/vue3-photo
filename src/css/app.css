@@ -1,0 +1,132 @@
+@media (min-width: 1750 px) {
+    .flex.xlg2 {
+        flex-basis: 16.666666666666664 %;
+        flex-grow: 0;
+        max-width: 16.666666666666664 %;
+    }
+}
+
+@media (min-width: 2400 px) {
+    .flex.xxl1 {
+        flex-basis: 8.333333333333332 %;
+        flex-grow: 0;
+        max-width: 8.333333333333332 %;
+    }
+}
+
+@media (min-width: 2550 px) {
+    .flex.xxxl1 {
+        flex-basis: 8.333333333333332 %;
+        flex-grow: 0;
+        max-width: 8.333333333333332 %;
+    }
+}
+
+html,
+body {
+    overscroll-behavior-y: contain;
+}
+
+body {
+    background-color: #fafafa;
+    color: #333333;
+    font-family: Roboto, sans-serif;
+}
+
+footer {
+    clear: both;
+    padding: 1rem 2rem;
+}
+
+main {
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+}
+
+#busy-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100 %;
+    height: 100 %;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#photoprism div.fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#photoprism div.logo-large {
+    position: fixed;
+    top: 50 %;
+    left: 50 %;
+    transform: translate(-50 %, -50 %);
+    width: 300 px;
+    height: 300 px;
+}
+
+#photoprism div.loading-logo {
+    position: fixed;
+    top: 45 %;
+    left: 50 %;
+    transform: translate(-50 %, -50 %);
+    width: 300 px;
+    height: 300 px;
+}
+
+#photoprism div.loading-bar {
+    position: fixed;
+    bottom: 15 %;
+    right: 10 %;
+    left: 10 %;
+}
+
+#photoprism .v-badge__badge {
+    font-size: 12 px;
+    height: 19 px;
+    width: 19 px;
+    right: -20 px;
+    top: -8 px;
+}
+
+#photoprism .clickable {
+    cursor: pointer;
+}
+
+#photoprism button:focus {
+    outline: none;
+}
+
+#photoprism .p-scroll-top {
+    top: 64 px;
+    right: 8 px;
+}
+
+#photoprism .float-left {
+    float: left;
+}
+
+#photoprism .float-right {
+    float: right;
+}
+
+#photoprism .p-page pre {
+    overflow: auto;
+}
+
+#photoprism .v-card button,
+#photoprism .v-card .caption {
+    overflow-wrap: anywhere;
+}
+
+#photoprism .body-1,
+#photoprism .body-2 {
+    word-wrap: break-word;
+}
