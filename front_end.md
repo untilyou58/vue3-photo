@@ -1,3 +1,4 @@
+[thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <h1 align="center">
 <br>
   <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="130">
@@ -10,7 +11,6 @@
 <h4 align="center">The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.</h4>
 
 
-It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
 Nó dựa vào kinh nghiệm của các nhà phát triển Front-End, với những cái được thêm vào từ một vài checklists của các open-source khác.
 
 ## Table of Contents
