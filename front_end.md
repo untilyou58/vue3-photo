@@ -31,7 +31,6 @@ Nó dựa vào kinh nghiệm của các nhà phát triển Front-End, với nh�
 
 ## How to use?
 
-All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
 Tất cả những mục trong **Front-End Checklist** đều là yêu cầu cho đại đa số các dự án, nhưng một vài yếu tố có thể là không cần thiết( trong trường hợp
 trang quản trị, thì bjan không cần RSS feed như là một ví dụ). Chúng tôi chọn 3 cấp độ:
 
